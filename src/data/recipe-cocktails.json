@@ -1,0 +1,727 @@
+{
+  "Recipe": [
+    {
+      "category": "Vodka – Haku",
+      "cocktails": [
+        {
+          "name": "Moscow Mule",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "0.5 oz", "item": "Lime Juice" },
+            { "amount": "3-4 oz", "item": "Ginger Beer" }
+          ],
+          "method": "Combine ingredients in a tall cocktail glass or mule mug with ice and gently stir to combine.",
+          "glass": "Tall cocktail glass or mule mug",
+          "garnish": "Lime wedge",
+          "history": [
+            "The Moscow Mule is widely traced to 1941 in Los Angeles, where it emerged from a collaboration between a vodka distributor, a ginger beer producer, and a bar owner.",
+            "The copper mug became a defining part of the drink’s identity and helped it stand out visually, playing a major role in its popularity.",
+            "The drink is often cited as one of the cocktails that helped popularize vodka in the United States after World War II."
+          ]
+        },
+        {
+          "name": "Screwdriver",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "4-5 oz", "item": "Orange Juice" }
+          ],
+          "method": "Combine ingredients in a tall collins glass with ice.",
+          "glass": "Collins glass",
+          "garnish": "Orange half wheel or wedge",
+          "history": [
+            "The Screwdriver rose to popularity in the mid-20th century, particularly during World War II, when spirits were commonly mixed with orange juice.",
+            "The story that it was stirred with an actual screwdriver is widely told, though the exact origin of the name remains uncertain.",
+            "In many countries, it’s simply referred to as “vodka and orange,” highlighting its straightforward nature."
+          ]
+        },
+        {
+          "name": "Sea Breeze",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "1.5 oz", "item": "Grapefruit Juice" },
+            { "amount": "3 oz", "item": "Cranberry Juice" }
+          ],
+          "method": "Combine ingredients in a rocks glass full of ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wheel or wedge",
+          "history": [
+            "The modern Sea Breeze (vodka, cranberry juice, grapefruit juice) is recognized as an official International Bartenders Association cocktail.",
+            "Versions of the drink gained popularity during the mid-20th century alongside cranberry juice marketing campaigns.",
+            "It belongs to a family of “Breeze” cocktails that share a vodka-and-cranberry base with different secondary juices."
+          ]
+        },
+        {
+          "name": "Bay Breeze",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "1.5 oz", "item": "Pineapple Juice" },
+            { "amount": "3 oz", "item": "Cranberry Juice" }
+          ],
+          "method": "Combine ingredients in a rocks glass full of ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wheel or wedge",
+          "history": [
+            "The Bay Breeze is closely related to the Sea Breeze, swapping grapefruit juice for pineapple juice.",
+            "It’s sometimes referred to as a “Hawaiian Sea Breeze” in older references.",
+            "The drink became popular as part of the broader wave of easy-drinking vodka cocktails in the late 20th century."
+          ]
+        },
+        {
+          "name": "White Russian",
+          "ingredients": [
+            { "amount": "1 oz", "item": "Haku Vodka" },
+            { "amount": "1 oz", "item": "Coffee Liqueur" },
+            { "amount": "1 oz", "item": "Cream" }
+          ],
+          "method": "Combine vodka and coffee liqueur in a rocks glass full of ice. Float the cream over top of the cocktail.",
+          "glass": "Rocks glass",
+          "garnish": "None",
+          "history": [
+            "The White Russian gained major pop-culture fame after appearing repeatedly in the 1998 film The Big Lebowski.",
+            "In the movie, the drink is often called a “Caucasian,” a nickname that entered pop vocabulary afterward.",
+            "Despite its name, the cocktail does not originate in Russia and is instead a cream-based variation on earlier vodka drinks."
+          ]
+        },
+        {
+          "name": "Classic Vodka Martini",
+          "ingredients": [
+            { "amount": "2.5 oz", "item": "Haku Vodka" },
+            { "amount": "0.5 oz", "item": "Dolin Dry Vermouth" },
+            { "amount": "1 dash", "item": "Orange Bitters", "optional": true }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "Lemon twist (oils expressed over drink)"
+        },
+        {
+          "name": "Dirty Vodka Martini",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Haku Vodka" },
+            { "amount": "0.5 oz", "item": "Olive Brine" },
+            { "amount": "0.125 oz", "item": "Dolin Dry Vermouth" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "Skewered olives",
+          "notes": "Specific build can be debated; this is one option."
+        },
+        {
+          "name": "Espresso Martini",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "1 oz", "item": "Coffee Liqueur" },
+            { "amount": "1 oz", "item": "Espresso" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "3 espresso beans",
+          "history": [
+            "The Espresso Martini was created in London in the 1980s by bartender Dick Bradsell.",
+            "Its origin story is commonly linked to a request for a drink that would energize and intoxicate at the same time.",
+            "The three-coffee-bean garnish is a long-standing presentation tradition associated with the drink."
+          ]
+        },
+        {
+          "name": "Cosmopolitan",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "0.75 oz", "item": "Triple Sec" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Cranberry Juice" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "Lemon peel",
+          "notes": "Triple Sec suggestion: DeKuyper for lower tier, Cointreau for more upscale.",
+          "history": [
+            "The modern Cosmopolitan is widely credited to a New York bartender in the late 1980s.",
+            "It became a defining cocktail of the 1990s, strongly associated with urban nightlife and cocktail culture.",
+            "Its global fame was cemented through repeated appearances on television, particularly in Sex and the City."
+          ]
+        },
+        {
+          "name": "Lemondrop Martini",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Haku Vodka" },
+            { "amount": "0.5 oz", "item": "Triple Sec" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "1 oz", "item": "Lemon Juice" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "Sugar rim and lemon peel or wheel",
+          "notes": "Triple Sec suggestion: DeKuyper for lower tier, Cointreau for more upscale.",
+          "history": [
+            "The Lemon Drop Martini was created in the 1970s in San Francisco.",
+            "Its flavor profile was inspired by lemon drop candy, which influenced both the name and the sweet-tart balance.",
+            "The sugar-rimmed glass became a signature feature of the drink."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Gin – Roku",
+      "cocktails": [
+        {
+          "name": "Gin Gimlet",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Roku Gin" },
+            { "amount": "1 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Lime peel (oils expressed over drink)",
+          "history": [
+            "The Gimlet is traditionally made with gin and lime cordial and has roots in early 20th-century British drinking culture.",
+            "It is referenced in classic literature, helping cement its place in cocktail history.",
+            "Early written references to the drink date back to the late 1920s."
+          ]
+        },
+        {
+          "name": "Southside",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Roku Gin" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "8-10 leaves", "item": "Mint Leaves" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and fine strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Mint sprig or leaf"
+        },
+        {
+          "name": "Eastside",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Roku Gin" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "8-10 leaves", "item": "Mint Leaves" },
+            { "amount": "3 slices", "item": "Cucumber Slices" }
+          ],
+          "method": "Muddle cucumber and mint in a mixing tin. Add remaining ingredients with ice, shake well, and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Cucumber slice"
+        },
+        {
+          "name": "Bees Knees",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Roku Gin" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Honey Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a stemmed cocktail glass.",
+          "glass": "Stemmed cocktail glass",
+          "garnish": "Lemon peel",
+          "history": [
+            "The Bee’s Knees is a Prohibition-era cocktail combining gin, lemon juice, and honey.",
+            "The phrase “bee’s knees” was popular slang at the time meaning “the best.”",
+            "Honey was often used in Prohibition cocktails to soften the taste of lower-quality spirits."
+          ]
+        },
+        {
+          "name": "French 75",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Roku Gin" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "2 oz", "item": "Sparkling Wine" }
+          ],
+          "method": "Combine ingredients except sparkling wine in a mixing tin with ice. Shake and strain into a coupe glass or champagne flute. Top with sparkling wine.",
+          "glass": "Coupe glass or champagne flute",
+          "garnish": "Lemon twist",
+          "history": [
+            "The French 75 is named after a French 75mm field artillery gun used during World War I.",
+            "The drink blends gin with lemon, sugar, and sparkling wine, making it both celebratory and potent.",
+            "Its name reflects the drink’s reputation for delivering a strong effect."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Gin – Sipsmith",
+      "cocktails": [
+        {
+          "name": "Gin & Tonic",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Sipsmith Gin" },
+            { "amount": "4.5 oz", "item": "Tonic Water" }
+          ],
+          "method": "Combine ingredients in a tall collins glass full of ice.",
+          "glass": "Collins glass",
+          "garnish": "Lime wedge"
+        },
+        {
+          "name": "Negroni",
+          "ingredients": [
+            { "amount": "1 oz", "item": "Sipsmith Gin" },
+            { "amount": "1 oz", "item": "Campari" },
+            { "amount": "1 oz", "item": "Dolin Sweet Vermouth" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Orange peel (oils expressed over drink)"
+        },
+        {
+          "name": "Gin Martini",
+          "ingredients": [
+            { "amount": "2.5 oz", "item": "Sipsmith Gin" },
+            { "amount": "0.5 oz", "item": "Dolin Dry Vermouth" },
+            { "amount": "1 dash", "item": "Orange Bitters", "optional": true }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a martini or coupe glass.",
+          "glass": "Martini or coupe glass",
+          "garnish": "Lemon twist or olives"
+        },
+        {
+          "name": "Hanky Panky",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Sipsmith Gin" },
+            { "amount": "1.5 oz", "item": "Cocchi Vermouth di Torino" },
+            { "amount": "1 bar spoon", "item": "Fernet Branca" }
+          ],
+          "method": "Combine all ingredients with ice. Strain up into cocktail glass.",
+          "glass": "Cocktail glass",
+          "garnish": "Lemon twist",
+          "history": [
+            "The Hanky Panky was created by Ada “Coley” Coleman, head bartender at London’s Savoy Hotel.",
+            "It is one of the earliest well-known cocktails created by a woman bartender.",
+            "The name came from a guest’s enthusiastic reaction to the drink’s unexpected flavor."
+          ]
+        },
+        {
+          "name": "Last Word",
+          "ingredients": [
+            { "amount": "0.75 oz", "item": "Sipsmith Gin" },
+            { "amount": "0.75 oz", "item": "Green Chartreuse" },
+            { "amount": "0.75 oz", "item": "Luxardo Maraschino Liqueur" },
+            { "amount": "0.75 oz", "item": "Lime Juice" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Luxardo or Amarena cherry"
+        },
+        {
+          "name": "Bramble",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Sipsmith Gin" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.5 oz", "item": "Simple Syrup" },
+            { "amount": "0.75 oz", "item": "Crème de Mure", "notes": "to float" }
+          ],
+          "method": "Shake gin, lemon, and simple with ice. Strain into a rocks glass over fresh ice (crushed recommended). Slowly pour crème de mure over top.",
+          "glass": "Rocks glass",
+          "garnish": "Lemon wheel and/or fresh blackberries"
+        }
+      ]
+    },
+    {
+      "category": "Tequila – Hornitos",
+      "cocktails": [
+        {
+          "name": "Tommy’s Margarita",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Hornitos Tequila", "notes": "any SKU" },
+            { "amount": "1 oz", "item": "Lime Juice" },
+            { "amount": "0.5 oz", "item": "Agave Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wedge or wheel",
+          "notes": "Optional salt rim."
+        },
+        {
+          "name": "Tequila Sunrise",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Hornitos Plata Tequila" },
+            { "amount": "4-5 oz", "item": "Orange Juice" },
+            { "amount": "0.5 oz", "item": "Grenadine" }
+          ],
+          "method": "Combine tequila and orange juice in a tall collins glass over ice. Slowly pour grenadine to sink at the bottom.",
+          "glass": "Collins glass",
+          "garnish": "Orange half wedge or wheel and a cherry"
+        }
+      ]
+    },
+    {
+      "category": "Tequila – El Tesoro",
+      "cocktails": [
+        {
+          "name": "Ranch Water",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "El Tesoro Blanco" },
+            { "amount": "0.5 oz", "item": "Fresh Lime Juice" },
+            { "amount": "5 oz", "item": "Premium Soda Water" }
+          ],
+          "method": "Shake tequila and lime with ice, strain into a collins glass over fresh ice. Top with soda water and gently stir.",
+          "glass": "Collins glass",
+          "garnish": "Salt rim and lime wedge or wheel"
+        },
+        {
+          "name": "Classic Margarita",
+          "ingredients": [
+            { "amount": "2 oz", "item": "El Tesoro", "notes": "any SKU" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Cointreau" },
+            { "amount": "0.25 oz", "item": "Agave Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wedge or wheel",
+          "notes": "Optional salt rim."
+        }
+      ]
+    },
+    {
+      "category": "Tequila – Tres Generaciones",
+      "cocktails": [
+        {
+          "name": "Classic Paloma",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Tres Generaciones Tequila" },
+            { "amount": "0.5 oz", "item": "Lime Juice" },
+            { "amount": "4 oz", "item": "Grapefruit Soda", "notes": "suggested: Jarritos or Squirt" }
+          ],
+          "method": "Combine ingredients in a tall cocktail glass over ice and gently stir, adding more ice as needed.",
+          "glass": "Tall cocktail glass",
+          "garnish": "Lime wheel/wedge or grapefruit wheel/wedge"
+        },
+        {
+          "name": "Mexican Firing Squad",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Tres Generaciones Tequila" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Grenadine" },
+            { "amount": "6 dashes", "item": "Angostura Bitters" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice and shake. Strain over fresh ice in a rocks glass.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wheel"
+        },
+        {
+          "name": "El Diablo",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Tres Generaciones Reposado" },
+            { "amount": "0.5 oz", "item": "Crème de Cassis" },
+            { "amount": "1 oz", "item": "Lime Juice" },
+            { "amount": "3 oz", "item": "Ginger Beer" }
+          ],
+          "method": "Shake all ingredients except ginger beer with ice. Strain over fresh ice in a collins glass and top with ginger beer.",
+          "glass": "Collins glass",
+          "garnish": "Lime wedge"
+        }
+      ]
+    },
+    {
+      "category": "Mezcal – Amaras",
+      "cocktails": [
+        {
+          "name": "Naked and Famous",
+          "ingredients": [
+            { "amount": "0.75 oz", "item": "Amaras Verde Mezcal" },
+            { "amount": "0.75 oz", "item": "Aperol" },
+            { "amount": "0.75 oz", "item": "Yellow Chartreuse" },
+            { "amount": "0.75 oz", "item": "Lime Juice" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "None"
+        },
+        {
+          "name": "Oaxaca Old Fashioned",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "El Tesoro Reposado" },
+            { "amount": "0.5 oz", "item": "Amaras Mezcal" },
+            { "amount": "1 bar spoon", "item": "Agave Syrup" },
+            { "amount": "2 dashes", "item": "Angostura Bitters" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Orange peel (oils expressed over drink)"
+        },
+        {
+          "name": "Mezcal Margarita",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Amaras Mezcal" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Cointreau" },
+            { "amount": "0.25 oz", "item": "Agave Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lime wedge or wheel",
+          "notes": "Optional salt rim."
+        }
+      ]
+    },
+    {
+      "category": "Bourbon – Maker’s Mark",
+      "cocktails": [
+        {
+          "name": "Whiskey Sour",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Maker’s Mark" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lemon wheel or peel",
+          "notes": "Optional Amarena cherry."
+        },
+        {
+          "name": "Gold Rush",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Maker’s Mark" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Honey Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Lemon wheel or peel"
+        },
+        {
+          "name": "Paper Plane",
+          "ingredients": [
+            { "amount": "0.75 oz", "item": "Maker’s Mark" },
+            { "amount": "0.75 oz", "item": "Aperol" },
+            { "amount": "0.75 oz", "item": "Amaro Nonino" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "None",
+          "notes": "Optional lemon or grapefruit peel."
+        },
+        {
+          "name": "New York Sour",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Maker’s Mark" },
+            { "amount": "1 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "0.75 oz", "item": "Dry Red Wine", "notes": "to float" }
+          ],
+          "method": "Shake ingredients except red wine with ice. Strain into a rocks glass over fresh ice. Float red wine over top.",
+          "glass": "Rocks glass",
+          "garnish": "Lemon peel or wheel"
+        }
+      ]
+    },
+    {
+      "category": "Bourbon – Jim Beam White",
+      "cocktails": [
+        {
+          "name": "Bourbon Highball",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Jim Beam Bourbon" },
+            { "amount": "4.5 oz", "item": "Premium Soda Water" }
+          ],
+          "method": "Combine ingredients in a collins glass with ice, gently stirring to combine.",
+          "glass": "Collins glass",
+          "garnish": "Lemon wedge or peel"
+        },
+        {
+          "name": "Bourbon Lemonade",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Jim Beam" },
+            { "amount": "5 oz", "item": "Lemonade" }
+          ],
+          "method": "Combine ingredients in a collins glass with ice.",
+          "glass": "Collins glass",
+          "garnish": "Lemon wheel or wedge"
+        },
+        {
+          "name": "Bourbon Palmer (Reverend Palmer)",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Jim Beam" },
+            { "amount": "2 oz", "item": "Lemonade" },
+            { "amount": "3 oz", "item": "Unsweet Tea" }
+          ],
+          "method": "Combine ingredients in a tall collins glass with ice and gently stir to combine.",
+          "glass": "Collins glass",
+          "garnish": "Lemon wedge"
+        }
+      ]
+    },
+    {
+      "category": "Bourbon – Jim Beam Black",
+      "cocktails": [
+        {
+          "name": "Kentucky Mule",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Jim Beam Black" },
+            { "amount": "0.5 oz", "item": "Lime Juice" },
+            { "amount": "4-5 oz", "item": "Ginger Beer" }
+          ],
+          "method": "Combine ingredients in a tall collins glass or mule mug with ice and gently stir to combine.",
+          "glass": "Collins glass or mule mug",
+          "garnish": "Lime wedge"
+        },
+        {
+          "name": "Coffee Old-Fashioned",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Jim Beam Black" },
+            { "amount": "0.5 oz", "item": "Coffee Liqueur" },
+            { "amount": "2 dashes", "item": "Angostura Bitters" }
+          ],
+          "method": "Combine ingredients with ice and stir. Strain over a large cube.",
+          "glass": "Rocks glass",
+          "garnish": "Orange coin"
+        }
+      ]
+    },
+    {
+      "category": "Bourbon – Basil Hayden",
+      "cocktails": [
+        {
+          "name": "Basil Hayden 75",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Basil Hayden" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "2 oz", "item": "Sparkling Wine" }
+          ],
+          "method": "Shake ingredients except sparkling wine with ice and strain into a coupe glass. Top with sparkling wine.",
+          "glass": "Coupe glass",
+          "garnish": "Lemon peel"
+        },
+        {
+          "name": "Bourbon Collins",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Basil Hayden" },
+            { "amount": "0.75 oz", "item": "Lemon Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "2 oz", "item": "Premium Soda Water" }
+          ],
+          "method": "Shake Basil Hayden, lemon, and simple with ice. Strain into a collins glass over fresh ice. Top with soda water and gently stir.",
+          "glass": "Collins glass",
+          "garnish": "Lemon wedge or wheel"
+        }
+      ]
+    },
+    {
+      "category": "Bourbon – Knob Creek",
+      "cocktails": [
+        {
+          "name": "Old Fashioned",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Knob Creek" },
+            { "amount": "0.25 oz", "item": "Demerara Syrup" },
+            { "amount": "3 dashes", "item": "Angostura Bitters" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Orange peel (oils expressed over drink)"
+        },
+        {
+          "name": "Boulevardier",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Knob Creek" },
+            { "amount": "0.75 oz", "item": "Campari" },
+            { "amount": "0.75 oz", "item": "Dolin Sweet Vermouth" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a rocks glass over fresh ice.",
+          "glass": "Rocks glass",
+          "garnish": "Orange peel (oils expressed over drink)"
+        }
+      ]
+    },
+    {
+      "category": "Rye – Knob Creek Rye",
+      "cocktails": [
+        {
+          "name": "Manhattan",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Knob Creek Rye" },
+            { "amount": "1 oz", "item": "Dolin Sweet Vermouth" },
+            { "amount": "2 dashes", "item": "Angostura Bitters" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a coupe or nick and nora glass.",
+          "glass": "Coupe or nick and nora glass",
+          "garnish": "Amarena cherry"
+        },
+        {
+          "name": "Black Manhattan",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Knob Creek Rye" },
+            { "amount": "1 oz", "item": "Averna Amaro" },
+            { "amount": "1 dash", "item": "Angostura Bitters" },
+            { "amount": "1 dash", "item": "Orange Bitters" }
+          ],
+          "method": "Combine ingredients in a mixing glass with ice. Stir to chill and strain into a coupe or nick and nora glass.",
+          "glass": "Coupe or nick and nora glass",
+          "garnish": "Amarena cherry"
+        },
+        {
+          "name": "Sazerac",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Knob Creek Rye" },
+            { "amount": "0.5 oz", "item": "Simple Syrup" },
+            { "amount": "6 dashes", "item": "Peychaud’s Bitters" },
+            { "amount": "To rinse", "item": "Absinthe" }
+          ],
+          "method": "Rinse a chilled cocktail glass with absinthe and discard. Stir rye, simple syrup, and bitters with ice to chill. Strain into the prepared glass.",
+          "glass": "Cocktail glass",
+          "garnish": "Lemon peel (express oils and discard peel)"
+        }
+      ]
+    },
+    {
+      "category": "Japanese Whisky – Toki",
+      "cocktails": [
+        {
+          "name": "Japanese Highball",
+          "ingredients": [
+            { "amount": "1.5 oz", "item": "Toki Japanese Whisky" },
+            { "amount": "4.5 oz", "item": "Premium Soda Water" }
+          ],
+          "method": "Fill a tall cocktail glass with ice. Pour whisky and gently stir to chill. Add soda water and stir again to combine.",
+          "glass": "Tall cocktail glass",
+          "garnish": "Grapefruit peel (oils expressed over drink)"
+        }
+      ]
+    },
+    {
+      "category": "Rum – Cruzan Aged Light",
+      "cocktails": [
+        {
+          "name": "Daiquiri",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Cruzan Light Rum" },
+            { "amount": "1 oz", "item": "Lime Juice" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Lime peel"
+        },
+        {
+          "name": "Hemingway Daiquiri",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Cruzan Light Rum" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "0.5 oz", "item": "Grapefruit Juice" },
+            { "amount": "0.25 oz", "item": "Luxardo Maraschino Liqueur" },
+            { "amount": "0.25 oz", "item": "Simple Syrup" }
+          ],
+          "method": "Combine ingredients in a mixing tin with ice. Shake well and strain into a coupe glass.",
+          "glass": "Coupe glass",
+          "garnish": "Lime wheel or peel"
+        },
+        {
+          "name": "Mojito",
+          "ingredients": [
+            { "amount": "2 oz", "item": "Cruzan Light Rum" },
+            { "amount": "0.75 oz", "item": "Simple Syrup" },
+            { "amount": "0.75 oz", "item": "Lime Juice" },
+            { "amount": "8-10 leaves", "item": "Mint Leaves" },
+            { "amount": "To top", "item": "Soda Water" }
+          ],
+          "method": "Combine ingredients except soda water in a mixing tin with ice. Hard shake and double strain into a tall cocktail glass over fresh ice. Top with soda.",
+          "glass": "Tall cocktail glass",
+          "garnish": "Mint sprig"
+        }
+      ]
+    }
+  ]
+}
