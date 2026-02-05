@@ -131,16 +131,20 @@ function Home() {
           </p>
         </motion.div>
 
-        {/* Cards Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-6 w-full max-w-7xl px-1 sm:px-4">
-          {cards.map((card, index) => (
+        {/* Cards Grid: 3 in first row, 2 centered in second row using 6-col grid */}
+        <div className="w-full max-w-6xl grid grid-cols-1 lg:grid-cols-6 gap-6 px-1 sm:px-4">
+          {/* First row: 3 cards, columns 1-3-5 */}
+          {cards.slice(0, 3).map((card, index) => (
             <motion.div
               key={index}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: card.delay }}
               whileHover={{ y: -8, scale: 1.02 }}
-              className="bg-gradient-to-br p-6 sm:p-8 rounded-lg border border-white/10 transition-all duration-300 flex flex-col justify-between min-h-[18rem] sm:h-80 shadow-lg cursor-pointer hover:shadow-[0_10px_40px_var(--card-glow)]"
+              className={
+                `bg-gradient-to-br p-6 sm:p-8 rounded-lg border border-white/10 transition-all duration-300 flex flex-col justify-between min-h-[18rem] sm:h-80 shadow-lg cursor-pointer hover:shadow-[0_10px_40px_var(--card-glow)] ` +
+                `col-span-1 lg:col-span-2 mt-0 mb-0`
+              }
               style={{
                 '--card-glow': card.theme.glow,
                 backgroundImage: `linear-gradient(135deg, ${card.theme.from}, ${card.theme.to})`,
@@ -157,7 +161,47 @@ function Home() {
                 <h3 className="text-2xl font-serif font-bold text-white mb-4">{card.title}</h3>
                 <p className="text-white/70 text-sm leading-relaxed">{card.desc}</p>
               </div>
-
+              <button
+                onClick={card.action}
+                className="group w-full py-3 px-6 rounded-full border text-white font-medium text-sm flex items-center justify-between hover:bg-white/10 transition-all"
+                style={{ borderColor: card.theme.accent }}
+              >
+                <span className="flex items-center gap-2">
+                  <card.icon size={16} style={{ color: card.theme.accent }} />
+                  {card.button}
+                </span>
+                <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
+              </button>
+            </motion.div>
+          ))}
+          {/* Second row: 2 cards, explicitly centered using col-start utilities */}
+          {cards.slice(3, 5).map((card, index) => (
+            <motion.div
+              key={index + 3}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: card.delay }}
+              whileHover={{ y: -8, scale: 1.02 }}
+              className={
+                `bg-gradient-to-br p-6 sm:p-8 rounded-lg border border-white/10 transition-all duration-300 flex flex-col justify-between min-h-[18rem] sm:h-80 shadow-lg cursor-pointer hover:shadow-[0_10px_40px_var(--card-glow)] col-span-1 lg:col-span-2 mt-0 mb-0 ` +
+                (index === 0 ? 'lg:col-start-2' : 'lg:col-start-4')
+              }
+              style={{
+                '--card-glow': card.theme.glow,
+                backgroundImage: `linear-gradient(135deg, ${card.theme.from}, ${card.theme.to})`,
+                borderColor: 'rgba(255,255,255,0.1)'
+              }}
+            >
+              <div>
+                <div
+                  className="mb-6 flex items-center justify-center h-16 w-16 rounded-full border border-white/15 bg-white/5 shadow-[0_0_25px_var(--card-glow)]"
+                  style={{ color: card.theme.accent }}
+                >
+                  <card.icon size={32} />
+                </div>
+                <h3 className="text-2xl font-serif font-bold text-white mb-4">{card.title}</h3>
+                <p className="text-white/70 text-sm leading-relaxed">{card.desc}</p>
+              </div>
               <button
                 onClick={card.action}
                 className="group w-full py-3 px-6 rounded-full border text-white font-medium text-sm flex items-center justify-between hover:bg-white/10 transition-all"
