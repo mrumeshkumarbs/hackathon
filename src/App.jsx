@@ -122,7 +122,10 @@ function Home() {
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
-          <h1 className="text-3xl sm:text-4xl md:text-6xl font-serif text-white mb-4 tracking-tight font-bold">
+          <h1
+            className="text-3xl sm:text-4xl md:text-6xl font-serif mb-4 tracking-tight font-bold bg-gradient-to-r from-[#f7c46c] via-[#69d2e7] to-[#f3a36b] bg-clip-text text-transparent drop-shadow-lg"
+            style={{ fontFamily: 'Playfair Display, serif', letterSpacing: '0.03em' }}
+          >
             The Master’s Pour
           </h1>
           <p className="text-white/70 text-base sm:text-lg">
